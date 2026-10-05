@@ -12,3 +12,8 @@
 *.pyc
 *.egg-info
 .pytest_cache
+
+# Environments to ignore
+venv/
+.venv/
+venv_inflammation/
